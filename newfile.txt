@@ -1,2 +1,2 @@
 "new-feature branch is created"
-"new file is modified for checking conflicts"
+"new file is modified for  conflicts"
