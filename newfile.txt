@@ -1,3 +1,9 @@
 "new-feature branch is created"
+ 
+"new file is modified for  conflicts"
 "new file is modified for  conflicts occur"
 "now stash command is used"
+"new file is added"
+"new file is modified for  conflicts occur"
+"now stash command is used"
+ 
