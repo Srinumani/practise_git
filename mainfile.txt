@@ -6,3 +6,6 @@ ECHO is on.
 "one file added cherry-pick"
 
 "tags added"
+=======
+"this main file"
+
