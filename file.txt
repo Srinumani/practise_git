@@ -1,3 +1,7 @@
 "Hello this is only command Practise Purpose"
 
 "Add new Line"
+
+
+ jdbc:sqlserver://springbootdbs.database.windows.net:1433;database=mydb;user=user@springbootdbs;password=
+Mani@1234;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
